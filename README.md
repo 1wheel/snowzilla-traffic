@@ -24,7 +24,6 @@ To set things up (sorry &mdash; the initial download will take a while because 
 ```
 git clone git@github.com:alykat/snowzilla-traffic.git
 cd snowzilla-traffic
-mkvirtualenv snowzilla-traffic
 brew install phantomjs
 ```
 
